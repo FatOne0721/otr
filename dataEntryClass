@@ -1,0 +1,69 @@
+package truckerPackage;
+
+//import menu.class
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+
+public class dataEntryClass {
+	
+	//declares an array
+	String[] truckerArray;
+	
+	//allocates memory
+	truckerArray = new String[30];
+	
+	
+	//truckerArray[0] = milesPerWeek;
+	
+	
+	
+	
+	
+	//public class offClickTextF implements ActionListener {}
+	
+	
+	
+			
+//milesPerWeek = new JFormattedTextField(
+
+/*
+ String milesPerWeek
+ String fuelPricePerGallon
+ String fuelMileage
+ String fuelAdditionalTax
+ String maintenanceExpensePerMile
+ String tireExpensePerMile
+ String workersCompensationPerMile
+ String mealExpense
+ String coDriverExpense
+ String helperExpense
+ String lodgingExpense
+ String miscellaneousExpense
+ String totalVariableExpense
+ 
+ String tractorPayment
+ String tractorInsurance
+ String basePlate
+ String highwayUse
+ String miscellaneousOther
+ String totalFixedExpense
+ 
+ String loadedPay
+ String emptyPay
+ String handling
+ String stopCharge
+ String loadedMiles
+ String emptyMiles
+ String fuelSurcharge
+ String freightHandled
+ String accessorials
+ String totalIncome
+ 
+ String truckNumber
+ 
+ 30 variables including truckNumber 
+ 
+ */
+
+}
