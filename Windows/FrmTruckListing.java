@@ -1,19 +1,15 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Nicholas Work
+ * Mark Gertiser
+ * Marty Carter
+ * Shawn Russell
  */
-package otr;
+package Windows;
 
 import java.awt.Event;
 import java.awt.event.KeyListener;
 import static java.lang.System.out;
 import javax.swing.JOptionPane;
-
-/**
- *
- * @author student
- */
 
 public class FrmTruckListing extends javax.swing.JFrame {
     boolean isGood;
