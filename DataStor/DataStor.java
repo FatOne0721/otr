@@ -70,7 +70,7 @@ public class DataStor {
 			
 			//Write a new truck object list to the CSV file
 			
-			}
+			
 
 			
 			
@@ -90,6 +90,7 @@ public class DataStor {
 			}
 			
 		}
+	}
 		public static void readCsvFile(String fileName) {
 
 			BufferedReader fileReader = null;
