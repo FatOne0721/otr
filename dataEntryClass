@@ -5,8 +5,20 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class dataEntryClass {
+public class TruckerArray{
+
 	
+//activate when submit button is pressed
+//convert truckerArray(30) to doubles
+//create loop that runs 30 times
+//verify data (makes sure positive numbers are entered)
+//track any errors
+//end loop
+//return values if bad
+//continue with program if all values are correct
+	public verify{
+		
+		
 	//declares an array
 	String[] truckerArray;
 	
@@ -14,56 +26,118 @@ public class dataEntryClass {
 	truckerArray = new String[30];
 	
 	
-	//truckerArray[0] = milesPerWeek;
-	
-	
-	
-	
-	
-	//public class offClickTextF implements ActionListener {}
-	
-	
-	
-			
-//milesPerWeek = new JFormattedTextField(
+
+		
 
 /*
- String milesPerWeek
- String fuelPricePerGallon
- String fuelMileage
- String fuelAdditionalTax
- String maintenanceExpensePerMile
- String tireExpensePerMile
- String workersCompensationPerMile
- String mealExpense
- String coDriverExpense
- String helperExpense
- String lodgingExpense
- String miscellaneousExpense
- String totalVariableExpense
+ 0. String milesPerWeek
+ 1. String fuelPricePerGallon
+ 2. String fuelMileage
+ 3. String fuelAdditionalTax
+ 4. String maintenanceExpensePerMile
+ 5. String tireExpensePerMile
+ 6. String workersCompensationPerMile
+ 7. String mealExpense
+ 8. String coDriverExpense
+ 9. String helperExpense
+ 10. String lodgingExpense
+ 11. String miscellaneousExpense
+ 12. String totalVariableExpense
  
- String tractorPayment
- String tractorInsurance
- String basePlate
- String highwayUse
- String miscellaneousOther
- String totalFixedExpense
+ 13. String tractorPayment
+ 14. String tractorInsurance
+ 15. String basePlate
+ 16. String highwayUse
+ 17. String miscellaneousOther
+ 18. String totalFixedExpense
  
- String loadedPay
- String emptyPay
- String handling
- String stopCharge
- String loadedMiles
- String emptyMiles
- String fuelSurcharge
- String freightHandled
- String accessorials
- String totalIncome
+ 19. String loadedPay
+ 20. String emptyPay
+ 21. String handling
+ 22. String stopCharge
+ 23. String loadedMiles
+ 24. String emptyMiles
+ 25. String fuelSurcharge
+ 26. String freightHandled
+ 27. String accessorials
+ 28. String totalIncome
  
- String truckNumber
+ 29. String truckNumber
  
  30 variables including truckNumber 
  
  */
+	}
+}
+
+
+Public class TruckerCalculations{
+
+
+public TruckerCalculations{
+
+truckerArray(30)
+
+//convert truckerArray(30) to doubles
+//create second array annualArray(30) for annual costs
+//calculate annual costs from the weekly costs
+	
+	//milesPerYear == annualArray(0) = truckerArray(0) * 52 
+	//fuelPricePerGallon == annualArray(1) = truckerArray(1)
+	//fuelMileage == annualArray(2) = truckerArray(2) 
+	//fuelAdditionalTaxYearly == annualArray(3) = truckerArray(3) * 52
+	//maintenanceExpensePerMile == annualArray(4) = truckerArray(4) 
+	//tireExpensePerMile == annualArray(5) = truckerArray(5)
+	//workersCompensationPerMile == annualArray(6) = truckerArray(6)
+	//mealExpense == annualArray(7) = truckerArray(7) * 52
+	//coDriverExpense == annualArray(8) = truckerArray(8) * 52
+	//helperExpense == annualArray(9) = truckerArray(9) * 52
+	//lodgingExpense == annualArray(10) = truckerArray(10) * 52
+	//miscellaneousExpense == annualArray(11) = truckerArray(11) * 52
+	//totalVariableExpense == annualArray(12) = add truckerArray 0 through 11
+	
+	//tractorPayment == annualArray(13) = truckerArray(13) * 12
+	//tractorInsurance == annualArray(14) = truckerArray(14) * 12
+	//basePlate == annualArray(15) = truckerArray(15) * 12
+	//highwayUse == annualArray(16) = truckerArray(16) * 12
+	//miscellaneousOther == annualArray(17) = truckerArray(17) * 12
+	//totalFixedExpense == annualArray(18) = truckerArray 13 through 17
+	
+	//loadedPay == annualArray(19) = truckerArray(19) * 52
+	//emptyPay == anualArray(20) = truckerArray(20) * 52
+	//handling == annualArray(21) = truckerArray(21) * 52
+	//stopCharge == annualArray(22) = truckerArray(22) * 52
+	//loadedMiles == annualArray(23) = truckerArray(23) * 52
+	//emptyMiles == annualArray(24) = truckerArray(24) * 52
+	//fuelSurcharge == annualArray(25) = truckerArray(25) * 52
+	//freightHandled == annualArray(26) = truckerArray(26) * 52
+	//accessorials == annualArray(27) = truckerArray(27) * 52
+	//totalIncome == annualArray(28) = annualArray 19 through 27
+	
+	//truckNumber == annualArray(29) = truckerArray(29)
+	
+//create a third array finalCalculationsArray(4) for calculations
+//calculate four entries for finalCalculationsArray(4)
 
 }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
